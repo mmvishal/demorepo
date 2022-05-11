@@ -2,4 +2,4 @@ print("hello vishal")
 
 Bitch = "vishal"
 
-print("srikanth")
+print("srikanth is nice guy")
